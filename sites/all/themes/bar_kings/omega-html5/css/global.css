@@ -1,0 +1,77 @@
+ @font-face {
+ 	font-family: "FFBB";
+ 	src: url(../fonts/FFBB.ttf);
+ }
+
+ .views-field-field-image {
+	float: left;
+	margin-right: 10px;
+ }
+
+ .views-field-body {
+ 	width: 700px;
+ }
+
+.view-photos-page .views-field-field-photos img{
+  border: 0;
+  margin: 0 10px 10px 0;
+}
+
+.site-name a {
+	font: 110px FFBB;
+	color: white;
+	text-decoration: none;
+}
+
+.site-slogan {
+	font: 22px Arial;
+	color: white;
+	text-transform: uppercase;
+	text-align: right;
+	margin: 0 35px 0 0;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#section-header {
+	outline: 1px solid black;
+	background-color: #002060;
+}
+
+.navigation .main-menu a {
+	color: white;
+	font: 16px Arial;
+	text-transform: uppercase;
+}
+
+.logo-img img {
+	float: left;
+}
+
+#zone-user .ajax-register-links li a {
+	color: white;
+	float: left;
+	font: 16px Arial;
+	margin-right: 10px;
+}
+
+#zone-user .ajax-register-links li {
+	list-style: none;
+}
+
+#zone-user-wrapper {
+	width: 220px;
+	float: right;
+	margin-top: 35px;
+}
+
+#region-branding {
+  width: 900px;
+}
