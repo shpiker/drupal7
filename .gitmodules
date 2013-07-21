@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/contrib/l10n_update"]
+	path = sites/all/modules/contrib/l10n_update
+	url = http://git.drupal.org/project/l10n_update.git
